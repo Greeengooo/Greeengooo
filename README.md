@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Greeengooo
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and Machine Learning algorithms
+- 🌱 I’m currently learning Python
 
 <!---
 Greeengooo/Greeengooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
