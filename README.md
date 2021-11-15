@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oleksii
 - 👀 I’m interested in Data Science and Big Data
-- 🌱 I’m currently learning ETL
+- 🌱 I’m currently learning Hadoop
 
 <!---
 Greeengooo/Greeengooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
